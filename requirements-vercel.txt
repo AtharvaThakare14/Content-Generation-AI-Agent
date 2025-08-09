@@ -1,0 +1,24 @@
+# Fastapi core dependencies
+fastapi
+pydantic
+starlette
+python-multipart
+
+# ASGI server - optimized version for Vercel
+uvicorn  
+
+# MongoDB
+pymongo
+certifi
+
+# AI - specify minimum versions needed
+langgraph
+langchain-core
+langchain
+langchain-openai
+langchain-community
+
+# Authentication
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv

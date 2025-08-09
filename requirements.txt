@@ -1,0 +1,24 @@
+# Fastapi 
+fastapi
+uvicorn
+python-multipart
+pydantic
+
+# MongoDB
+pymongo
+certifi
+
+# AI 
+langgraph
+langchain
+langchain_core
+langchain_openai
+langchain_community
+
+# Authentication
+supabase
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+streamlit
+requests
